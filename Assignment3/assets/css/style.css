@@ -1,0 +1,90 @@
+#tab{
+    width: 1000px;
+    margin: auto;
+}
+
+.first_row{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    
+    
+}
+.second_row{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+}
+.third_row{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+
+.fourth_row{
+    height: 400px;
+    width: 200px;
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+#image{
+    height: 128px;
+    width: 128px;
+    
+}
+.form_make{
+    text-align: center;
+}
+.last_row{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+}
+.box-1{
+    background-color: #638ba4;
+}
+.box-2{
+    background-color: #6398a4;
+}
+.box-3{
+    background-color: #7dafcf;
+}
+.box-4{
+    background-color: #a2a2a2;
+}
+.box-5{
+    background-color: #b3b3b3;
+}
+.box-6{
+    background-color: #c4c4c4;
+}
+.box-7{
+    background-color: #d5d5d5;
+}
+.box-8{
+    background-color: #6cb6ff;
+}
+.box-9{
+    background-color: #6cffff;
+}
+.box-10{
+    background-color: #90ffff;
+}
+.box-11{
+    background-color: #d8ffff;
+}
+.box-12{
+    background-color: #ff9224;
+}
+.box-13{
+    background-color: #ffb66c;
+}
+.box-14{
+    background-color: #ff6c6c;
+}
+
+
+
